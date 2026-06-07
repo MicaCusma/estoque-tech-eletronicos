@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Estoque Tech Eletrônicos",
+    "slug": "estoque-tech-eletronicos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    }
+  }
+}
